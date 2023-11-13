@@ -1,0 +1,15 @@
+.btn{
+    font-family: fuente1;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    width: 90%;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(224, 30%, 27%);
+    display: block;
+    margin: 20px auto;
+}
+.btn:hover{
+    background-image: linear-gradient(hsla(241, 70%, 35%, 1), hsla(241, 72%, 46%, 0.9));
+    cursor: pointer;
+}
